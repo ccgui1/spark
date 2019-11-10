@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="alsuse" />
+        <module name="ch5kmeans" />
+        <module name="decisionforest" />
+        <module name="sparkhbase" />
+        <module name="sparkstream0901" />
+        <module name="sparkstream0902" />
+        <module name="studytest" />
+        <module name="wordcount1028" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="alsuse" target="1.8" />
+      <module name="ch5kmeans" target="1.8" />
+      <module name="decisionforest" target="1.8" />
+      <module name="sparkhbase" target="1.8" />
+      <module name="sparkstream0901" target="1.8" />
+      <module name="sparkstream0902" target="1.8" />
+      <module name="studysparkstream" target="1.8" />
+      <module name="studytest" target="1.8" />
+      <module name="wordcount1028" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

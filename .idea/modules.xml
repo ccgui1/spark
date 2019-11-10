@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../studysparkstream/alsuse/alsuse.iml" filepath="$PROJECT_DIR$/../studysparkstream/alsuse/alsuse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../studysparkstream/ch5kmeans/ch5kmeans.iml" filepath="$PROJECT_DIR$/../studysparkstream/ch5kmeans/ch5kmeans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../studysparkstream/decisionforest/decisionforest.iml" filepath="$PROJECT_DIR$/../studysparkstream/decisionforest/decisionforest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../studysparkstream/sparkhbase/sparkhbase.iml" filepath="$PROJECT_DIR$/../studysparkstream/sparkhbase/sparkhbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../studysparkstream/sparkstream0901/sparkstream0901.iml" filepath="$PROJECT_DIR$/../studysparkstream/sparkstream0901/sparkstream0901.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../studysparkstream/sparkstream0902/sparkstream0902.iml" filepath="$PROJECT_DIR$/../studysparkstream/sparkstream0902/sparkstream0902.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../studysparkstream/studysparkstream.iml" filepath="$PROJECT_DIR$/../studysparkstream/studysparkstream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../studysparkstream/studytest/studytest.iml" filepath="$PROJECT_DIR$/../studysparkstream/studytest/studytest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../studysparkstream/wordcount1028/wordcount1028.iml" filepath="$PROJECT_DIR$/../studysparkstream/wordcount1028/wordcount1028.iml" />
+    </modules>
+  </component>
+</project>
