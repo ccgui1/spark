@@ -218,6 +218,6 @@
     <orderEntry type="library" name="Maven: com.chuusai:shapeless_2.11:2.0.0" level="project" />
     <orderEntry type="library" name="Maven: org.jpmml:pmml-model:1.2.15" level="project" />
     <orderEntry type="library" name="Maven: org.jpmml:pmml-schema:1.2.15" level="project" />
-    <orderEntry type="library" name="Maven: mysql:mysql-connector-java:8.0.15" level="project" />
+    <orderEntry type="library" name="Maven: mysql:mysql-connector-java:5.1.28" level="project" />
   </component>
 </module>
